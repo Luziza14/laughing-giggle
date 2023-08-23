@@ -1,13 +1,20 @@
-
 body {
-	background-color:#87CEFA;
+	background-color:#41a197;
 	}
 	p {
-	color:yellow;
+	color:white;
 	}
 	h3 {
 	color: red;
 	}
 	.paragrafo_vermelho{
 	color:red;
+	}
+	.emlinha{
+		display:inline;
+		border: 5px solid blue;
+		margin: 1px
+	}
+	.embloco{
+		display:block;
 	}
